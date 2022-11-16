@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=stepTwo
+comment1.params=
+comment1.target=stepTwo()
+comment10.params=freshman\ sophomore\ junior\ senior
+comment10.target=double\ computeTuition(double,\ double,\ double,\ double)
+comment11.params=args
+comment11.target=void\ main(java.lang.String[])
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=e
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=
+comment4.target=double\ getFinalOutput()
+comment5.params=firstOutput
+comment5.target=void\ setFirstOutput(double)
+comment6.params=secondOutput
+comment6.target=void\ setSecondOutput(double)
+comment7.params=thirdOutput
+comment7.target=void\ setThirdOutput(double)
+comment8.params=fourthOutput
+comment8.target=void\ setFourthOutput(double)
+comment9.params=finalOutput
+comment9.target=void\ setFinalOutput(double)
+numComments=12

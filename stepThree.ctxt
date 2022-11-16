@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=stepThree
+comment1.params=finalOutput
+comment1.target=stepThree(double)
+comment10.params=args
+comment10.target=void\ main(java.lang.String[])
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=e
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=
+comment4.target=double\ getFinalCase()
+comment5.params=firstCase
+comment5.target=void\ setCaseFirst(double)
+comment6.params=secondCase
+comment6.target=void\ setCaseSecond(double)
+comment7.params=thirdCase
+comment7.target=void\ setCaseThird(double)
+comment8.params=fourthCase
+comment8.target=void\ setCaseFourth(double)
+comment9.params=finalCase
+comment9.target=double\ setCaseFinal(double)
+numComments=11
